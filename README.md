@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)]()
 <h1 align="center">Hi 👋, I'm Nikita Kalinin</h1>
-<h3 align="center">A passionate DataScience/ML engineer</h3>
 <img align="right" alt="Coding" width="400" src=‘https://i.gifer.com/QWc9.gif’>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakq&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakq" /> </p>
